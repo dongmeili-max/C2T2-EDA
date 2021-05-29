@@ -1,9 +1,10 @@
 # C2T2-EDA
 
-A copy of my .ipynb file
+1. A copy of my .ipynb file
 
-Lessons learned report (pdf)
+2. Lessons learned report (pdf)
 
-dats table (pdf)The datasets: 
-  1. for EDA (creditEDA) 
-  2. for model buliding (creditML)
+3. The datasets: 
+  1. for EDA (creditEDA.csv) 
+  2. for model buliding (creditML.csv)
+4. the data table for creditML.csv
