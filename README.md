@@ -8,4 +8,4 @@
 
 4. The dataset for model buliding (creditML.csv)
 
-5. the data table for creditML.csv
+5. The variable table from creditML.csv
