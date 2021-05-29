@@ -1,11 +1,12 @@
 # C2T2-EDA
 
-1. A copy of my .ipynb file
+1. A copy of my .ipynb file  
+2. (pdf version of the Jupyter notebook in case the.ipynb file cannot be downloaded)
 
-2. Lessons learned report (pdf)
+3. Lessons learned report (pdf)
 
-3. The dataset for EDA (creditEDA.csv) 
+4. The dataset for EDA (creditEDA.csv) 
 
-4. The dataset for model buliding (creditML.csv)
+5. The dataset for model buliding (creditML.csv)
 
-5. The variable table from creditML.csv
+6. The variable table from creditML.csv
